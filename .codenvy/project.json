@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"builders":{"default":"maven"},"runners":{"default":"java-standalone-nuodb","configs":{}}}
+{"type":"maven","attributes":{},"runners":{"default":"system:/java-standalone-nuodb/default","configs":{}},"builders":{"default":"maven"}}
